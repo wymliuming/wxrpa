@@ -21,7 +21,7 @@
 
 已实现：7\*24小自动应答、主动开发客户、自动追单、老客户激活新需求、打客户标签、AI高情商评论朋友圈、多平台智能体接入、系统自动生成智能体（开发中）、批量指定智能体、半自动模式、全自动模式...等
 
-详情查阅文档：<https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot?singleDoc#> 《有客AI替身 》
+详情查阅文档：https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot
 
 ![1.沟通提效通过有客AI替身，能快速将各种智能体工作流嵌入到你的个人微信中，打造专属自己的各种替身，7\*24小时帮你干活。比如接入AI销冠智能体，凭借复刻的销冠话术帮你谈单，聊客户，回答客户的售前产品咨询。在比如接入心理咨询智能体，帮你回复客户的心理咨询，比如接入律师罗翔智能体，帮你解答客户的法律执行等等，2.主动开发客户支持导入手机号码或指定群，自动批量加好友，采用分时智能添加，有效规避加好友频繁问题。3.自动追单调用过往沟通记录上下文、以及客户标签等多维度信息，针对性自动生成追单话术，自动追单。引客户在次咨询4.主动出击根据客户标签，产品库，活动方案等多维度信息，自动生成激活话术，自动向沉默好友发送有吸引力的内容，主动出击激活、盘活沉默客户。5.自动宣传通过调用朋友圈素材库，自动发布朋友圈，（支持霸屏模式，发布前自动删除上一条，在扩大宣传的同时保证我们的朋友圈还是简洁的，有利于别人通过我们的好友申请）6.承接客户如果公司做投放，每天有大量人加进来，可以开启自动承接客户，不定时检测是否有好友申请加我们，发现有就会去通过他，支持自动打标签，设置个性备注以及指定默认承接的智能体，通过AI过滤意向后，在真人触达。7.刷朋友圈闲时自动刷朋友圈，可设定点赞概率，评论概率，支持AI高情商评论朋友圈，为了客户关怀看到，也是为了活跃账号8.打客户标签通过实时沟通记录，上下文，自动给客户打多维度标签，方便后续展开，千人千面，针对于销售](https://cdn.nlark.com/yuque/0/2025/png/2756477/1749570217500-94044d8d-bf3b-4ace-81bf-0dd94a1a95f7.png?x-oss-process=image%2Fformat%2Cwebp)
 
@@ -31,7 +31,7 @@
 
 已实现：多微信登录加好友，支持号码添加、群内添加、自定义备份、自动打标签、验证语库、分时加好友、触量保护...等
 
-详情查阅文档：[<[https://www.yuque.com/g/liuming-qutzm/gwa2kz/oyerno1n2w504d6y/collaborator/join?token=iLTCHYtBYprQqQHG&source=doc_collaborator#](https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot)> 《RPA"微信加好友"》](https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot)
+详情查阅文档：https://www.yuque.com/liuming-qutzm/gwa2kz/oyerno1n2w504d6y
 
 ![image](https://cdn.nlark.com/yuque/0/2025/png/2756477/1748159515918-ed978155-8174-46e0-bbb3-d55af309c3e5.png?x-oss-process=image%2Fformat%2Cwebp)
 
