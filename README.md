@@ -31,7 +31,7 @@
 
 已实现：多微信登录加好友，支持号码添加、群内添加、自定义备份、自动打标签、验证语库、分时加好友、触量保护...等
 
-详情查阅文档：<[https://www.yuque.com/g/liuming-qutzm/gwa2kz/oyerno1n2w504d6y/collaborator/join?token=iLTCHYtBYprQqQHG&source=doc_collaborator#](https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot)> 《RPA"微信加好友"》
+详情查阅文档：[<[https://www.yuque.com/g/liuming-qutzm/gwa2kz/oyerno1n2w504d6y/collaborator/join?token=iLTCHYtBYprQqQHG&source=doc_collaborator#](https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot)> 《RPA"微信加好友"》](https://www.yuque.com/liuming-qutzm/gwa2kz/fhrm8k0rggbfcfot)
 
 ![image](https://cdn.nlark.com/yuque/0/2025/png/2756477/1748159515918-ed978155-8174-46e0-bbb3-d55af309c3e5.png?x-oss-process=image%2Fformat%2Cwebp)
 
