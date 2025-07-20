@@ -33,7 +33,7 @@
 
 详情查阅文档：https://www.yuque.com/liuming-qutzm/gwa2kz/oyerno1n2w504d6y
 
-![image](https://cdn.nlark.com/yuque/0/2025/png/2756477/1748159515918-ed978155-8174-46e0-bbb3-d55af309c3e5.png?x-oss-process=image%2Fformat%2Cwebp)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/380dccba6b2c49aaaabd2edb857c4730.png)
 
 ## RPA发朋友圈
 
